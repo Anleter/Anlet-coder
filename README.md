@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Anlet-coder
-- 👀 I’m interested in coding..
-- 🌱 I’m currently learning python...
+- 👋 Hi, I’m @Anleter
+- 👀 I’m interested in coding.
   
 
 <!---
